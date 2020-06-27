@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Payment</string>
+    <string name="bank_card">С банковской карты</string>
+    <string name="mobile_phone">С мобильного телефона</string>
+    <string name="cash_at">Наличными по адресу</string>
+    <string name="deposit_money">Ввод денег</string>
+    <string name="payment_information">Информация об оплате</string>
+    <string name="ok">ОК</string>
+</resources>
